@@ -35,7 +35,7 @@ The Geojson file was downloaded from [Gisco Eurostat official site](https://ec.e
 **- TOOLS**
 
 The main tool used for this inquiry in death and healthcare resources was made in Python using the [Jupyter notebook](https://jupyter.org/) (links to the scripts bellow), with the well known libraries of Pandas, Numpy, etc.
-New libraries compared to previous works are [Scikit-learn](https://scikit-learn.org/stable/) for machine learning models, [statsmodes](https://www.statsmodels.org/stable/index.html) for time-series analysis, and [Folium](https://python-visualization.github.io/folium/latest/) for lighter spatial visualizatons than on Plotly.
+New libraries compared to previous works are [Scikit-learn](https://scikit-learn.org/stable/) for machine learning models, [statsmodels](https://www.statsmodels.org/stable/index.html) for time-series analysis, and [Folium](https://python-visualization.github.io/folium/latest/) for lighter spatial visualizatons than on Plotly.
 
 [TABLEAU Public](https://www.tableau.com/fr-fr/products/public), the well known BI tool, was then used to sum up the study in a simple storyboard (link bellow).
 

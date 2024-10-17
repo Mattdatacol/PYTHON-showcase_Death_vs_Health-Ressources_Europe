@@ -84,3 +84,5 @@ New libraries compared to previous works are [Scikit-learn](https://scikit-learn
   The model can't be very accurate for the three reasons : fed with a small data set of only 36 entry points, solely based on the Covid period and not accounting for the previous time period before the pandemic. It is still interesting to notice seasonality on winter.
    
 ## 4. [Final Tableau storyboard:](https://public.tableau.com/views/Dashboard_analysis/Storyboard?:language=fr-FR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) The stroyboard contains new visuals and interactive maps to check out !
+
+[Bonus visual made in PowerBi desktop](visuals/euros_map.pdf) showing the euros spent by healthcare providers in Europe (choropleth map, KPI and histplot)

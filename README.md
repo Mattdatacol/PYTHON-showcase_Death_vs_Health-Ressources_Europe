@@ -2,7 +2,7 @@
 
 ## 1. Context
 
-Europe is a quite heterogenous assembly of countries with there own culture and qualities, but how do they do in death rates comparisons ? And are there any factors helping or hindering healthcare structures ? Animated by these questions, the link between healtcare resources and death rates in all eueropean countries makes for an interesting starting analysis.
+Europe is a quite heterogenous assembly of countries with there own culture and qualities, but how do they do in death rates comparisons ? And are there any factors helping or hindering healthcare structures ? Animated by these questions, the link between healthcare resources and death rates in all European countries makes for an interesting starting analysis.
 
 By healthcare resources, we aim to focus on money spent by health providers (hospitals mostly), on the number of physicians in each region and on the number of available hospital beds. All causes of deaths are from the death certificates and are surprisingly so many that there are up to 91 referenced death causes.
 

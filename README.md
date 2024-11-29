@@ -85,4 +85,4 @@ New libraries compared to previous works are [Scikit-learn](https://scikit-learn
    
 ## 4. [Final Tableau storyboard:](https://public.tableau.com/views/Dashboard_analysis/Storyboard?:language=fr-FR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) The stroyboard contains new visuals and interactive maps to check out !
 
-[Bonus visual made in PowerBi desktop](visuals/euros_map.pdf) showing the euros spent by healthcare providers in Europe (choropleth map, KPI and histplot)
+[Bonus visual made with PowerBi desktop](visuals/euros_map.pdf) showing the euros spent by healthcare providers in Europe (choropleth map, KPI and histplot)
